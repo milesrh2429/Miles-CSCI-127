@@ -1,0 +1,74 @@
+body {
+  background-color: rgb(251, 251, 251);
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+
+* {
+  font-family: "Georiga";
+  text-align: center;
+}
+
+
+h1 {
+
+  font-weight: 1000;
+  font-size: 3rem;
+}
+
+h2 {
+ 
+  font-weight: 800;
+  font-size: 2.3rem;
+}
+
+h3 {
+ 
+  font-weight: 800;
+  font-size: 2.3rem;
+}
+
+p, li, ol { 
+  color: black;
+  font-weight: 400;
+  font-size: 1.7rem;
+  font-family: "Times New Roman";
+  text-align: justify;
+  margin-right: 120px;
+  margin-left: 120px;
+}
+
+a { 
+  color: mediumpurple;
+  font-weight: 400;
+  font-size: 1.7rem;
+  font-family: "Times New Roman";
+}
+
+
+img {
+  max-width:100%; 
+  height:auto
+}
+
+table {
+  margin: 0px auto;
+  font-size: 1.7rem;
+}
+
+a.hyp {
+  text-decoration: none;
+  font-size: 2rem;
+  color: medium purple;
+}
+
+a.hyp2 {
+  text-decoration: none;
+  font-size: 1.7rem;
+  color: medium purple;
+}
+
+
